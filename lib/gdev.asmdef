@@ -1,0 +1,11 @@
+{
+    "name": "gdev",
+    "references": [
+        "common",
+        "private"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
